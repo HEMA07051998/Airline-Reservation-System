@@ -1,3 +1,3 @@
 # Airline-Reservation-System
 
-Airline Reservation System in Python.
+Python GUI Application for booking flights online.
