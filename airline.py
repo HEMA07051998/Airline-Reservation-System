@@ -126,7 +126,7 @@ Label (fr1, text="Welcome to Airline Reservation System", bg='black', fg='blue',
 a=PhotoImage(file="airline.gif") #loads image
 Label(fr1,image=a).grid(row=1,column=1,padx=10,pady=10)
 #fr1.pack(expand=1)
-Label (fr1, text="Made by - Dhanya Sasikumar", bg='black', fg='white', font='none 12 bold').grid(row=2,column=1,padx=10,pady=10)
+Label (fr1, text="Made by - Dhanya Sasikumar and Hema Krishna", bg='black', fg='white', font='none 12 bold').grid(row=2,column=1,padx=10,pady=10)
 #button opens a new window
 Button (fr1, text='Click to proceed', width=20, command=click).grid(row=3,column=1,padx=10,pady=10)
 
